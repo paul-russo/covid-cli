@@ -36,12 +36,3 @@ Then run this in your terminal:
 ```
 deno install --allow-net covid https://raw.githubusercontent.com/paul-russo/covid-cli/master/mod.ts
 ```
-
-## Note
-
-I've found myself obsessively refreshing the Johns Hopkins coronavirus map for the past couple of weeks. I'm not sure what I'm hoping will be there each time the page loads; maybe I'm hoping that I'll somehow catch the very moment where the slope of the graphs begins to decrease, meaning the spread has started slowing. From what I understand, it'll be a long time until we see that moment, but we'll get there eventually.
-
-This tool doesn't provide any insight that can't be found elsewhere but I hope that, if anything, having slightly quicker access to this data might bring some weird sense of control or reassurance or normalcy or... something.
-
-Weird times.
-Take care.
