@@ -15,7 +15,7 @@ All arguments are optional
 `-l`
 - Limit countries by minimum number of confirmed cases.
 - Default is `0` (no limit)
-- Example: `covid -s 100`
+- Example: `covid -l 100`
 
 `-c`
 - Filter for a country, or part of a country name.
